@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varshith Yadav!
 
-## 🚀 passionate about building scalable software, automating with DevOps, and diving deep into the world of AI and cloud computing.
+🚀 Passionate About Building Scalable Software, Automating With DevOps, And Diving Deep Into The World Of AI And Cloud Computing.
 
 ---
 
@@ -18,7 +18,7 @@
 `JavaScript` `Python` `Java` `HTML/CSS`
 
 **Frameworks & Libraries:**  
-`React` `Express` `Node.js`
+`React`
 
 **DevOps & Cloud:**  
 `Docker` `Kubernetes (GKE)` `Jenkins` `Google Cloud Platform` `CI/CD Pipelines`
