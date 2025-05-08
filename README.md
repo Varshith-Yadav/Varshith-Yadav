@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Varshith Yadav!
 
-<!--
-**Varshith-Yadav/Varshith-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 passionate about building scalable software, automating with DevOps, and diving deep into the world of AI and cloud computing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshith2001&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 📌 Top Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith2001&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
