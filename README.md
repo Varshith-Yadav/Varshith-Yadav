@@ -7,13 +7,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshith2001&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshith-Yadav&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 📌 Top Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith2001&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-Yadav&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
