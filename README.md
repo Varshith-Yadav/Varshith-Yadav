@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varshith Yadav!
 
-# 🚀 passionate about building scalable software, automating with DevOps, and diving deep into the world of AI and cloud computing.
+## 🚀 passionate about building scalable software, automating with DevOps, and diving deep into the world of AI and cloud computing.
 
 ---
 
