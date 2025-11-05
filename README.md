@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Varshith Yadav!
 
-🚀 Passionate About Building Scalable Software, Automating With DevOps, And Diving Deep Into The World Of AI And Cloud Computing.
+![Profile views](https://komarev.com/ghpvc/?username=Varshith-Yadav&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
 ## 📌 Top Languages Used
 
@@ -12,23 +11,5 @@
 
 ---
 
-## 🔧 Tools & Technologies
-
-**Languages:**  
-`JavaScript` `Python` `Java` `HTML/CSS`
-
-**Frameworks & Libraries:**  
-`React`
-
-**DevOps & Cloud:**  
-`Docker` `Kubernetes (GKE)` `Jenkins` `Google Cloud Platform` `CI/CD Pipelines`
-
-**Databases:**  
-`MySQL` (Containerized)
-
-**Other:**  
-`Git` `GitHub`
-
----
 
 Thanks for stopping by! ⭐
