@@ -2,10 +2,9 @@
 
 <p align="center">
 
-<b>DevOps • ML • Deep Learning • Generative AI Engineer in the Making</b>
+<b>Cooking Someting</b>
 
-I’m a Computer Science student deeply focused on machine learning, deep learning, and building real-world Generative AI systems. I enjoy designing intelligent applications that combine data, models, and scalable system architecture.
-I don’t just experiment with models — I build end-to-end ML systems, integrate LLMs into practical workflows, and engineer reliable DevOps pipelines to ship them.
+I’m a Computer Science student 
 
 </p>
 
